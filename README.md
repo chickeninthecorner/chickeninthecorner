@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Undergraduate CSD student @SUTD
+
 <!--
 **chickeninthecorner/chickeninthecorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
