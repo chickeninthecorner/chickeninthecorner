@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Undergraduate CSD student @SUTD
+Undergraduate @SUTD
+
+My itch.io page: https://chickeninthecorner.itch.io/
 
 <!--
 **chickeninthecorner/chickeninthecorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
